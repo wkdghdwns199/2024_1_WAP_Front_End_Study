@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Formatting</title>
+</head>
+
+<body>
+
+    <h1>b strong tag</h1>
+    <p><b>"푸딩"</b>굵게</p>
+    <p><strong>"푸딩"</strong>굵게 중요</p>
+
+    <h2>i em tag</h2>
+    <p><i>"기권"</i>이탤릭체</p>
+    <p><em>"기권</em>이탤릭체 중요</p>
+
+</body>
+    
+</html>
