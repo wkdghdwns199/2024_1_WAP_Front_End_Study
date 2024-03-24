@@ -16,6 +16,19 @@
     <p><i>"기권"</i>이탤릭체</p>
     <p><em>"기권</em>이탤릭체 중요</p>
 
+    <h3>mark tag</h3>
+    <p><mark>"성층권"</mark>하이라이팅</p>
+
+    <h4>del tag</h4>
+    <p><del>"대류권"<del>지움</p>
+
+    <h5>ins tag</h5>
+    <p><ins>"중간권"</ins>밑줄</p>
+
+    <h6>sup sub tag</h6>
+    <p>X<sup>2</sup> = Y<sup>6</sup></p>
+    <p>과산화수소수 H<sub>2</sub>O<sub>2</sub>이다.</p>
+
 </body>
     
 </html>
